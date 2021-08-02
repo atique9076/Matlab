@@ -1,3 +1,4 @@
+# How to find Richardson number by its formula for Boundary Layer Height
 clear
 clc
 G=load('void.txt');% respective month data in radio excel file
